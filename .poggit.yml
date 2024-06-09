@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Farmero14/Envoys
+build-by-default: true
+branches:
+- main
+projects:
+  Envoys:
+    path: ""
+...
