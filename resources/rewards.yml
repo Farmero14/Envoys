@@ -1,0 +1,50 @@
+common:
+  - item: "stone"
+    count: 1
+    name: "Common Stone"
+  - item: "dirt"
+    count: 2
+    name: "Common Dirt"
+
+uncommon:
+  - item: "iron_ingot"
+    count: 1
+    name: "Uncommon Iron Ingot"
+  - item: "gold_ingot"
+    count: 2
+    name: "Uncommon Gold Ingot"
+
+rare:
+  - item: "diamond"
+    count: 1
+    name: "Rare Diamond"
+  - item: "emerald"
+    count: 2
+    name: "Rare Emerald"
+
+epic:
+  - item: "netherite_ingot"
+    count: 1
+    name: "Epic Netherite Ingot"
+  - item: "nether_star"
+    count: 2
+    name: "Epic Nether Star"
+
+legendary:
+  - item: "elytra"
+    count: 1
+    name: "Legendary Elytra"
+  - item: "dragon_egg"
+    count: 2
+    name: "Legendary Dragon Egg"
+
+mythic:
+  - item: "beacon"
+    count: 1
+    name: "Mythic Beacon"
+  - item: "totem_of_undying"
+    count: 2
+    name: "Mythic Totem of Undying"
+
+min_items: 3
+max_items: 5

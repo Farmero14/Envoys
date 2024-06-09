@@ -1,0 +1,18 @@
+# 1h30m30s for 1 hour, 30 minutes, and 30 seconds
+# d = Day
+# h = Hour
+# m = Minutes
+# s = seconds
+envoys:
+  - world: "world"
+    x: 100
+    y: 64
+    z: 100
+    time: "1h30m30s"
+    despawn_time: "5m"
+  - world: "world"
+    x: 200
+    y: 64
+    z: 200
+    time: "1h30m30s"
+    despawn_time: "5m"
