@@ -1,0 +1,6 @@
+name: Envoys
+version: 1.0.0
+author: Farmero
+api: 5.0.0
+main: Farmero\envoys\Envoys
+description: Spawns in a chest with loot at a specific location
